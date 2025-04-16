@@ -9,7 +9,7 @@ File: index.html
 
 Hosting: GitHub Pages
 
-Live Site:  
+Live Site:  https://tharunmacharla.github.io/Task-6-Static-Website/
 
 🚀 Deployment Steps
 
@@ -31,7 +31,7 @@ git commit -m "Initial commit"
 
 5. Push to GitHub:
 
-git remote add origin https://github.com/your-username/your-repository-name.git
+git remote add origin https://github.com/TharunMacharla/Task-6-Static-Website.git
 git branch -M main
 git push -u origin main
 
@@ -54,3 +54,10 @@ CSS3 (optional)
 Git & GitHub
 
 GitHub Pages
+Results:
+![Screenshot 2025-04-16 142058](https://github.com/user-attachments/assets/6c93e76e-b597-4778-8ef7-257740f575c6)
+![Screenshot 2025-04-16 142112](https://github.com/user-attachments/assets/66b88fb2-0534-48a6-b013-6aafa19ddb74)
+![Screenshot 2025-04-16 142040](https://github.com/user-attachments/assets/9add215f-db70-4724-abbb-6f02d017728f)
+
+
+
